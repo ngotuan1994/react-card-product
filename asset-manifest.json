@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-card-product/static/css/main.82b10eae.css",
+    "main.js": "/react-card-product/static/js/main.e0d53103.js",
+    "static/js/787.a03aeb14.chunk.js": "/react-card-product/static/js/787.a03aeb14.chunk.js",
+    "static/media/NikeShoes.png": "/react-card-product/static/media/NikeShoes.574dd9b69054be9bfde2.png",
+    "index.html": "/react-card-product/index.html",
+    "main.82b10eae.css.map": "/react-card-product/static/css/main.82b10eae.css.map",
+    "main.e0d53103.js.map": "/react-card-product/static/js/main.e0d53103.js.map",
+    "787.a03aeb14.chunk.js.map": "/react-card-product/static/js/787.a03aeb14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82b10eae.css",
+    "static/js/main.e0d53103.js"
+  ]
+}
