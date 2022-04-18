@@ -1,3 +1,7 @@
+# DEMO
+Link: [DEMO](https://react-card-product.ericngo.dev/).
+# Demo Video:
+![Alt Text](https://github.com/ngotuan1994/react-card-product/blob/master/demo_vid1.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
